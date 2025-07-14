@@ -1,18 +1,23 @@
 # 📊 Sales Dashboard – Power BI
 
-This project demonstrates an interactive Sales Performance Dashboard built using Microsoft Power BI.
+This project presents a dynamic and interactive Sales Dashboard built using Microsoft Power BI.
 
-## 🔎 Features
-- Region-wise and Month-wise Sales Analysis
-- KPIs: Total Revenue, Units Sold, Profit, Growth %
-- Product Category and Region Filters
+## 🔍 Key Features
+- Region-wise and monthly sales analysis
+- KPIs: Revenue, Units Sold, Profit Margins
+- Interactive filters for categories and regions
+- Visual trendline for business performance
 
 ## 🛠 Tools Used
-- Microsoft Power BI
-- Simulated SQL/Excel data
+- Power BI
+- SQL (Simulated queries)
+- Excel (Raw data preparation)
 
 ## 📥 Download Dashboard
-[Click here to download the .pbix file]([https://drive.google.com/your-public-link](https://drive.google.com/file/d/170VR4ABNIC9z6PY6fgJUuoS3eAQku2to/view?usp=sharing))
+[Click here to download the .pbix file](https://drive.google.com/uc?export=download&id=170VR4ABNIC9z6PY6fgJUuoS3eAQku2to)
 
-## 🧠 Goal
-To showcase how sales data can be visualized effectively to support business decisions.
+## 📸 Screenshot Preview
+*(Upload a screenshot named `dashboard.png` in your repo and use below line)*
+
+```md
+![Dashboard Screenshot](./dashboard.png)
