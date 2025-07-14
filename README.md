@@ -10,7 +10,6 @@ This project presents a dynamic and interactive Sales Dashboard built using Micr
 
 ## 🛠 Tools Used
 - Power BI
-- SQL (Simulated queries)
 - Excel (Raw data preparation)
 
 ## 📥 Download Dashboard
