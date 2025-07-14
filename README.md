@@ -19,4 +19,4 @@ This project presents a dynamic and interactive Sales Dashboard built using Micr
 *(Upload a screenshot named `SN Corp Dashboard 14-07-2025 14_10_05.png` in your repo and use below line)*
 
 ```md
-![Dashboard Screenshot](./SN Corp Dashboard 14-07-2025 14_10_05.png)
+(SN Corp Dashboard 14-07-2025 14_10_05.png)
